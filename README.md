@@ -1,7 +1,7 @@
 
 # E02a-Control-Structures
 
-
+This is my second assignment for my C220 class, it is helping me realize what problems to look out for when I'm coding in the future and giving me some good tips, as well as getting me more comfortable with the program. The game is a guessing game where you guess what the computer's favorite color is. Each file has a different response and gets slightly more advanced. In main10.py, for example, the game will either respond with "Sorry, try again" or "Correct!" It will tell you how many guesses it took for you to get the correct answer and see if you wish to play again. 
 
 - Open main01.py. Before running it, what do you expect this program to do? I expect it to greet me and ask what I believe it's favorite color is.
   - Now right click on the main1.py window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. It just replied with the file name.
